@@ -5,6 +5,8 @@ export default function Home() {
   return (
     <div>
       <Header/>
+      <h1>Hi, I'm Krzysztof</h1>
+      <p>A developer combining programming skills with an infrastructure perspective</p>
     </div>
   )
 }
