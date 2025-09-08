@@ -1,12 +1,14 @@
 import Header from "@/components/Header";
+import Hero from "@/components/Hero";
 import Image from "next/image";
 
 export default function Home() {
   return (
     <div>
-      <Header/>
-      <h1>Hi, I'm Krzysztof</h1>
-      <p>A developer combining programming skills with an infrastructure perspective</p>
+      <div className="flex flex-col min-h-screen">
+        <Header/>
+        <Hero/>
+      </div>
     </div>
   )
 }
