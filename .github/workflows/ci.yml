@@ -4,5 +4,7 @@ jobs:
   hello:
     runs-on: ubuntu-latest
     steps:
-    - name: Say hello
-      run: echo "Hello Action!!"
+    - name: Getting my project
+      uses: actions/checkout@v4
+    - name: List project files
+      run: ls -la
