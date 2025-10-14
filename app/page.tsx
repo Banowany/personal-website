@@ -4,10 +4,12 @@ import Hero from "@/components/Hero";
 
 export default function Home() {
   return (
-    <div className="container">
-      {/* <Header/> */}
-      <Hero/>
-      {/* <AboutMe/> */}
+    <div>
+      <Header/>
+      <div className="container">
+        <Hero/>
+        {/* <AboutMe/> */}
+      </div>
     </div>
   )
 }
