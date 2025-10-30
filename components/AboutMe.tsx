@@ -4,7 +4,8 @@ export default function AboutMe() {
             className="py-3 py-md-5"
             style={{
                 minHeight: '100vh',
-                backgroundColor: '#e9ecef'
+                backgroundColor: '#e9ecef',
+                color: 'black'
             }}
         >
             <div className="text-center container">

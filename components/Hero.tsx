@@ -6,7 +6,8 @@ export default function Hero() {
             className="py-3 py-md-5" 
             style={{
                 minHeight: '100vh',
-                backgroundColor: 'white'
+                backgroundColor: 'white',
+                color: 'black'
             }}
         >
             <div className="text-center container">
