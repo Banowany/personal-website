@@ -4,10 +4,10 @@ import Hero from "@/components/Hero";
 
 export default function Home() {
   return (
-    <div>
+    <main className=" flex flex-col items-center text-gray-800 bg-white">
       {/* <Header/> */}
       <Hero/>
       <AboutMe/>
-    </div>
+    </main>
   )
 }
