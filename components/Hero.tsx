@@ -7,7 +7,7 @@ export default function Hero() {
                 {/* <div>
                     <Image src={"/avatar.png"} alt="avatar icon" width={150} height={150}/>
                 </div> */}
-                <h1 className=" text-4xl md:text-6xl max-w-2xl">
+                <h1 className=" text-4xl md:text-6xl max-w-2xl mb-5">
                     {"Hi, I'm Krzysztof"}
                 </h1>
                 <p className=" text-lg md:text-2xl max-w-2xl">
