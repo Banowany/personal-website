@@ -8,7 +8,7 @@ export default function AboutMe() {
                         I am a fifth-year Computer Science student at Jagiellonian University.
                         I have been fascinated by computers since childhood — I do not just want to use them, I want to understand how and why they work.
                     </p>
-
+                  
 
                     <p>
                         These days, I feel most at home in web development, especially on the backend, though I can handle frontend work as well. I have spent the most time working with Java and C#, but I am also comfortable with Python.
